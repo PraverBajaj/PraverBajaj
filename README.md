@@ -1,6 +1,6 @@
-# 💫 About Me:
+# About Me:
 👋 Hey, I'm Praver!
-🚀 Passionate Developer | Open Source Contributor
+Passionate Developer | Open Source Contributor
 
 I'm  exploring Web Development, Blockchain, and Functional Programming. I have experience with MERN stack, Next.js, PostgreSQL, and Cats Effect in Scala. Currently, I'm learning Doobie, Scala, and Blockchain while preparing for GSoC 2025.
 
