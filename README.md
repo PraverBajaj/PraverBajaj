@@ -4,7 +4,7 @@ Passionate Developer | Open Source Contributor
 
 I'm  exploring Web Development, Blockchain, and Functional Programming. I have experience with MERN stack, Next.js, PostgreSQL. Currently, I'm exploring Blockchain and Web3 stuff.
 
-🔹 Tech Stack: Next.js, React, TypeScript, Node.js, PostgreSQL, WebSockets, Docker.
+🔹 Tech Stack: Next.js, React, TypeScript, Node.js, PostgreSQL, WebSockets, Docker. <br>
 🔹 Interests: Open Source, AI & Web Development.
 
 💡 Let's connect and build something awesome!<br>
