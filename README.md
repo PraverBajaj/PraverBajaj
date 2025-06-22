@@ -2,9 +2,9 @@
 👋 Hey, I'm Praver!
 Passionate Developer | Open Source Contributor
 
-I'm  exploring Web Development, Blockchain, and Functional Programming. I have experience with MERN stack, Next.js, PostgreSQL, and Cats Effect in Scala. Currently, I'm learning Doobie, Scala, and Blockchain while preparing for GSoC 2025.
+I'm  exploring Web Development, Blockchain, and Functional Programming. I have experience with MERN stack, Next.js, PostgreSQL. Currently, I'm exploring Blockchain and Web3 stuff.
 
-🔹 Tech Stack: Next.js, React, TypeScript, Node.js, PostgreSQL, Scala, Cats Effect, Doobie, WebSockets, Docker.
+🔹 Tech Stack: Next.js, React, TypeScript, Node.js, PostgreSQL, WebSockets, Docker.
 🔹 Interests: Open Source, AI & Web Development.
 
 💡 Let's connect and build something awesome!<br>
